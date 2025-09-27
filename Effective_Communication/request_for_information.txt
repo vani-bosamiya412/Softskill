@@ -1,10 +1,12 @@
-Hi there,
+Subject: Request for Guidance on Fitness App Development
 
-I hope this message finds you well. I am currently working on a fitness app and could really use your insights on integrating workout tracking and UI design tips.
+Dear [Recipient’s Name],
 
-Your advice would be super helpful, and I’ll make sure to mention your contribution. If it’s easier, we can also hop on a quick call to discuss this.
+I hope this message finds you well. I am currently developing a fitness app in Flutter and would greatly value your insights, particularly regarding workout tracking integration and UI design best practices.
 
-Thank you for your time and support.
+Your guidance would be extremely helpful, and I would be glad to acknowledge your contribution. If it’s more convenient, I’d be happy to schedule a short call to discuss this further.
+
+Thank you very much for your time and support.
 
 Kind regards,
 Vani Bosamiya
